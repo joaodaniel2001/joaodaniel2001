@@ -1,10 +1,6 @@
-# Hi 👋, I'm João Daniel
+<h1 align="center"> Hi 👋, I'm João Daniel</h1>
 
-### Lover of BackEnd and IA
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaodaniel2001&label=Profile views&color=0e75b6&style=flat" alt="joaodaniel2001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaodaniel2001" alt="joaodaniel2001" /></a> </p>
+<h3 align="center"> Lover of BackEnd and IA</h3>
 
 - 🔭 I'm currently working on **a Gemini AI Studio project**
 
